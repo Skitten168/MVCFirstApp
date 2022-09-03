@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkxhzAy3IHRxIssB8gzqUQzpwTiBDFhM+C0XMPZF67MKYKSUlbnBekbZWWSpKCILyad8xXlG+t3hZ/iHgtMVhA==",
+  "success": true,
+  "projectFilePath": "/Users/samkittendorf/Projects/MVCFirstApp/MVCFirstApp/MVCFirstApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/samkittendorf/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/samkittendorf/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/samkittendorf/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
